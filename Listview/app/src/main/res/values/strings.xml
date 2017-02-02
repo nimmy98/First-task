@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Listview</string>
+    <string-array name="cities">
+    <item>Ahemadabad</item>
+    <item>surat</item>
+    <item>rajkot</item>
+    <item>vadodra</item>
+    </string-array>
+</resources>
